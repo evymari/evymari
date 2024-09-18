@@ -12,8 +12,6 @@ Mi repositorio personal![github-header-image (6)](https://github.com/user-attach
 
 📊 Additionally, I have knowledge in digital tools and have complemented my profile with training in data analysis and cybersecurity. I'm a continuous learner, always eager to stay up to date with the latest technologies and industry trends.
 
-# 💫 About Me:
-👋 Hi, I'm Evelyn Quevedo<br>💻 I'm a Junior FullStack Developer passionate about web development and technology.<br>🎓 I completed my full stack training at Factoría F5, mastering HTML, CSS, JavaScript, React, SQL, and more.<br>🚀 I'm always eager to learn and stay updated with new technologies, with additional skills in data analysis and cybersecurity.<br>🤝 I'm open to collaborating on innovative digital projects and solving real-world challenges through technology.<br>🔗 How to reach me: LinkedIn<br>⚡ Fun fact: I love constantly evolving in the tech world and learning new things every day!
 
 
 ## 🌐 Socials:
